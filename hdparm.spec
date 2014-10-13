@@ -1,7 +1,7 @@
 Summary:	Utility for setting (E)IDE performance parameters
 Name:		hdparm
 Version:	9.43
-Release:	1
+Release:	2
 License:	BSD
 Group:		Applications/System
 Source0:	http://downloads.sourceforge.net/hdparm/%{name}-%{version}.tar.gz
